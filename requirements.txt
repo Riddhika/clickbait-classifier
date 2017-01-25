@@ -5,6 +5,7 @@ requests==2.5.0
 numpy==1.9.1
 scipy==0.15.0
 scikit-learn==0.15.2
+imap==3.4
 
 # for api server
 Flask==0.10.1
